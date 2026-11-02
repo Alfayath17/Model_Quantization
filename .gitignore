@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+
+# Model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+
+# Cache
+.cache/
